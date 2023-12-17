@@ -15,6 +15,7 @@
 		174368AF2AA8A6B5005DF9ED /* LocationsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174368AE2AA8A6B5005DF9ED /* LocationsDataService.swift */; };
 		175B8EA02ABA175600EB7952 /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175B8E9F2ABA175600EB7952 /* LocationsView.swift */; };
 		175B8EA22ABA17FE00EB7952 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175B8EA12ABA17FE00EB7952 /* LocationsViewModel.swift */; };
+		17E798252B28B99A00EFA4D2 /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E798242B28B99A00EFA4D2 /* LocationsListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		174368AE2AA8A6B5005DF9ED /* LocationsDataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationsDataService.swift; sourceTree = "<group>"; };
 		175B8E9F2ABA175600EB7952 /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
 		175B8EA12ABA17FE00EB7952 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
+		17E798242B28B99A00EFA4D2 /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				175B8E9F2ABA175600EB7952 /* LocationsView.swift */,
+				17E798242B28B99A00EFA4D2 /* LocationsListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				174368AF2AA8A6B5005DF9ED /* LocationsDataService.swift in Sources */,
+				17E798252B28B99A00EFA4D2 /* LocationsListView.swift in Sources */,
 				175B8EA22ABA17FE00EB7952 /* LocationsViewModel.swift in Sources */,
 				1743689D2AA89C12005DF9ED /* ContentView.swift in Sources */,
 				175B8EA02ABA175600EB7952 /* LocationsView.swift in Sources */,
