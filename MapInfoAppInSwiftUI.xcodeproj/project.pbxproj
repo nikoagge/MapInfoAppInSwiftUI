@@ -15,6 +15,7 @@
 		174368AF2AA8A6B5005DF9ED /* LocationsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174368AE2AA8A6B5005DF9ED /* LocationsDataService.swift */; };
 		175B8EA02ABA175600EB7952 /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175B8E9F2ABA175600EB7952 /* LocationsView.swift */; };
 		175B8EA22ABA17FE00EB7952 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175B8EA12ABA17FE00EB7952 /* LocationsViewModel.swift */; };
+		17D028FA2B2F972B004DB02D /* LocationPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D028F92B2F972B004DB02D /* LocationPreviewView.swift */; };
 		17E798252B28B99A00EFA4D2 /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E798242B28B99A00EFA4D2 /* LocationsListView.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		174368AE2AA8A6B5005DF9ED /* LocationsDataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationsDataService.swift; sourceTree = "<group>"; };
 		175B8E9F2ABA175600EB7952 /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
 		175B8EA12ABA17FE00EB7952 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
+		17D028F92B2F972B004DB02D /* LocationPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPreviewView.swift; sourceTree = "<group>"; };
 		17E798242B28B99A00EFA4D2 /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -94,6 +96,7 @@
 			children = (
 				175B8E9F2ABA175600EB7952 /* LocationsView.swift */,
 				17E798242B28B99A00EFA4D2 /* LocationsListView.swift */,
+				17D028F92B2F972B004DB02D /* LocationPreviewView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			files = (
 				174368AF2AA8A6B5005DF9ED /* LocationsDataService.swift in Sources */,
 				17E798252B28B99A00EFA4D2 /* LocationsListView.swift in Sources */,
+				17D028FA2B2F972B004DB02D /* LocationPreviewView.swift in Sources */,
 				175B8EA22ABA17FE00EB7952 /* LocationsViewModel.swift in Sources */,
 				1743689D2AA89C12005DF9ED /* ContentView.swift in Sources */,
 				175B8EA02ABA175600EB7952 /* LocationsView.swift in Sources */,
