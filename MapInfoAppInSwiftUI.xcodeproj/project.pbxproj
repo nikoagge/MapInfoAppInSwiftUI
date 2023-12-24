@@ -17,6 +17,7 @@
 		175B8EA22ABA17FE00EB7952 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175B8EA12ABA17FE00EB7952 /* LocationsViewModel.swift */; };
 		17D028FA2B2F972B004DB02D /* LocationPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D028F92B2F972B004DB02D /* LocationPreviewView.swift */; };
 		17D9E6022B373ACA00B0CFEA /* LocationMapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D9E6012B373ACA00B0CFEA /* LocationMapAnnotationView.swift */; };
+		17D9E6042B3741BF00B0CFEA /* LocationDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D9E6032B3741BF00B0CFEA /* LocationDetailsView.swift */; };
 		17E798252B28B99A00EFA4D2 /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E798242B28B99A00EFA4D2 /* LocationsListView.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,7 @@
 		175B8EA12ABA17FE00EB7952 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
 		17D028F92B2F972B004DB02D /* LocationPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPreviewView.swift; sourceTree = "<group>"; };
 		17D9E6012B373ACA00B0CFEA /* LocationMapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationMapAnnotationView.swift; sourceTree = "<group>"; };
+		17D9E6032B3741BF00B0CFEA /* LocationDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailsView.swift; sourceTree = "<group>"; };
 		17E798242B28B99A00EFA4D2 /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -100,6 +102,7 @@
 				17E798242B28B99A00EFA4D2 /* LocationsListView.swift */,
 				17D9E6012B373ACA00B0CFEA /* LocationMapAnnotationView.swift */,
 				17D028F92B2F972B004DB02D /* LocationPreviewView.swift */,
+				17D9E6032B3741BF00B0CFEA /* LocationDetailsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17D9E6042B3741BF00B0CFEA /* LocationDetailsView.swift in Sources */,
 				174368AF2AA8A6B5005DF9ED /* LocationsDataService.swift in Sources */,
 				17D9E6022B373ACA00B0CFEA /* LocationMapAnnotationView.swift in Sources */,
 				17E798252B28B99A00EFA4D2 /* LocationsListView.swift in Sources */,
